@@ -9,7 +9,7 @@
     "category": "administration",
     "small": "The 12th Chapter of Ecclesiastes&#x27; by Lloyd Moylan",
     "img": {
-      "src": "../img/ADM.png",
+      "src": "img/ADM.png",
       "alt": "Administration Building"
     },
     "description": "<p>The Administration Building was the first and only building on campus when the doors of Eastern opened in 1934. Students attended class here and in a small farmhouse located nearby. Presently, 90 years later, it is an iconic building here on campus and is still standing strong.</p>"
@@ -24,7 +24,7 @@
     "category": "academic",
     "small": "",
     "img": {
-      "src": "../img/AG.png",
+      "src": "img/AG.png",
       "alt": "Agriculture Building"
     },
     "description": "<p>The Agriculture Building contains an Animal Center with three laboratories, a surgery room, a pharmaceutical/anesthetic storage room, a teaching laboratory, an animal reproduction and nutrition research laboratory, and the cell culture laboratory. All of these facilities aid in advancing students&#x27; knowledge, experience, and their research and analysis skills.</p>"
@@ -39,7 +39,7 @@
     "category": "academic",
     "small": "",
     "img": {
-      "src": "../img/AA.png",
+      "src": "img/AA.png",
       "alt": "Art and Anthropology Building"
     },
     "description": "<p>The Art and Anthropology was renovated in 2001. It comprises labs for geoarcheology, osteology, zooarcheology, cultural anthropology, ceramics, curation, forensic anthropology. There are computer labs for graphic designs, displays for student work, and studios for design, drawing, and painting.</p>"
@@ -54,7 +54,7 @@
     "category": "academic",
     "small": "",
     "img": {
-      "src": "../img/AAX.jpg",
+      "src": "img/AAX.jpg",
       "alt": "Art Annex"
     },
     "description": "<p>The Art Annex contains a ceramics studio, photography studio, film development studio, green screen and light box.</p>"
@@ -69,7 +69,7 @@
     "category": "athletics",
     "small": "",
     "img": {
-      "src": "../img/1024.jpg",
+      "src": "img/1024.jpg",
       "alt": "Athletic Practice Field"
     },
     "description": "<p>Located near the Greyhound Stadium and the athletic weight training facility.</p>"
@@ -84,7 +84,7 @@
     "category": "athletics",
     "small": "",
     "img": {
-      "src": "../img/TrainingFacility.jpg",
+      "src": "img/TrainingFacility.jpg",
       "alt": "Athletic Weight Training Facility"
     },
     "description": "<p>With 500 student athletes and a need to get bigger, faster and stronger, Eastern New Mexico University along with the generous help of Senator Stuart Ingle, decided in February 2010 that a brand new state of the art weight room facility was needed to ensure the further growth across the board of the Eastern New Mexico Athletic Department.\nThat vision resulted in a $500,000 facility located adjacent to the ENMU softball complex, near Greyhound Arena, that covers 5,260 square feet and is one of the largest weight facilities in the conference. The facility is outfitted with 10 double-sided power racks and Olympic platforms, cable machines, leg press machines, rows of dumbbells, plyometric boxes, step up boxes, kettle bells, and core machines. In addition, the facility also includes a 12X12 foot wall specifically tailored for medicine ball work.</p>"
@@ -99,7 +99,7 @@
     "category": "landmarks",
     "small": "",
     "img": {
-      "src": "../img/Blackwater.png",
+      "src": "img/Blackwater.png",
       "alt": "Blackwater Draw Museum"
     },
     "description": "<p>The Blackwater Draw museum was built in 1969 and includes a Museum and a National Historic Landmark. The Museum houses materials from the National Historical Landmark including collections form all over the greater Southwest and Southern High Plains. The National Historic Landmark is located just outside of Portales and reflects the long period of gravel mining that occurred during the 1950s and 1960s with three main pits and many large spoil piles around the property.</p>"
@@ -114,7 +114,7 @@
     "category": "student-services",
     "small": "",
     "img": {
-      "src": "../img/img.jpg",
+      "src": "img/img.jpg",
       "alt": "Campus Bookstore"
     },
     "description": "<p>The Campus Bookstore is located right next to the CUB. You can purchase textbooks, school supplies, and ENMU merchandise.</p>"
@@ -129,7 +129,7 @@
     "category": "student-services",
     "small": "The Campus Union Building is the heart of student life, containing Housing and Residence Life, Dining Services, student government, Associated Student Activities",
     "img": {
-      "src": "../img/img.jpg",
+      "src": "img/img.jpg",
       "alt": "Campus Union Building"
     },
     "description": "<p>The Campus Union Building (CUB) is considered the heart of student life on campus. Find activities like Dawg Days, fundraisers, meetings, student government, Ballroom events, and special guests and other organized events in the Greyhound Lounge.\nEnjoy your time at the CUB with food from World of Wings (WoW) Cafe American Grill and the Greyhound Cafe. </p>"
@@ -144,7 +144,7 @@
     "category": "other",
     "small": "",
     "img": {
-      "src": "../img/CasaDelSol.png",
+      "src": "img/CasaDelSol.png",
       "alt": "Casa del Sol"
     },
     "description": "<p>In May 2022, Eastern New Mexico University dedicated the Casa Del Sol event facility. After many renovations, the contractor and interior designer both are sisters and ENMU graduates, helped redesign the home while staying true to the original architecture. The property includes two apartments for visiting dignitaries, distinguished scholars, and guest artists.\nSeveral works of art by ENMU alumni are on display on the property. The home has been a part of the University&#x27;s history since 1947 (only 13 years after the campus opened).</p>"
@@ -159,7 +159,7 @@
     "category": "other",
     "small": "",
     "img": {
-      "src": "../img/CDC.png",
+      "src": "img/CDC.png",
       "alt": "Child Development Center"
     },
     "description": "<p>The Child Development Center (CDC) provides opportunities for students that are pursuing careers in early childhood development to gain hands-on experience. Each semester, up to 50 children are enrolled in the CDC program.</p>"
@@ -174,7 +174,7 @@
     "category": "academic",
     "small": "",
     "img": {
-      "src": "../img/COB.png",
+      "src": "img/COB.png",
       "alt": "College of Business"
     },
     "description": "<p>The College of Business, department of Psychology, and Duplicating Services are all located here. It consists of two courtyards, political science, psychology, sociology and criminal justice, smart classrooms, and a computer lab.\nThe Becky Sharp Auditorium is located on the SE corner of the building; holds up to 250 people and has an 18-foot projection screen for media programs.</p>"
@@ -189,7 +189,7 @@
     "category": "academic",
     "small": "",
     "img": {
-      "src": "../img/COMM.png",
+      "src": "img/COMM.png",
       "alt": "Communication Building"
     },
     "description": "<p>The Communication Building is home to the Broadcast Center (KENW TV/PBS affiliate and KENW FM), and the Department of Communication Studio C - TV studio, The Chase (newspaper), HoundBytes (online magazine), and Hound Waves (student radio), classrooms, and audio and video labs.\nStudents have the opportunity to work on national and international PBS programs for KENW, and in a small studio shooting podcasts, the radio station, or student publications on the Communication side.</p>"
@@ -204,7 +204,7 @@
     "category": "other",
     "small": "",
     "img": {
-      "src": "../img/COPE.jpg",
+      "src": "img/COPE.jpg",
       "alt": "Council of Professor Emeriti"
     },
     "description": "<p>Council of Professors Emeriti (COPE) is a group of faculty who have retired from Eastern New Mexico University, a group that spent their academic careers helping the University grow and improving student experiences.\nMembers of COPE continue to support ENMU students through the COPE scholarship fund. Several members remain active in helping students academically by volunteering a portion of their time in retirement to tutoring services where they continue to share their academic expertise to help students learn and grow.</p>"
@@ -219,7 +219,7 @@
     "category": "housing",
     "small": "",
     "img": {
-      "src": "../img/Curry.png",
+      "src": "img/Curry.png",
       "alt": "Curry Hall"
     },
     "description": "<p>The environment of this hall provides the foundation for a close-knit community. Lasting friendships are created in a comfortable atmosphere. Curry Hall is relaxed and quiet, perfect for students who want to study.\nLocation: Curry Hall is located on the north side of campus diagonally across from the Administration Building on S Avenue K.</p>"
@@ -234,7 +234,7 @@
     "category": "other",
     "small": "",
     "img": {
-      "src": "../img/Sanders.png",
+      "src": "img/Sanders.png",
       "alt": "Dallan Sanders Plaza"
     },
     "description": "<p>Dallan Sanders was inducted under the support category in 1993 after hosting the KENW Sports Look show for 18 years and serving as Eastern’s public address announcer since 1971. After retiring from ENMU in 1990, Sanders became the director of the Roosevelt County Chamber of Commerce. The university named the plaza behind the Campus Union after him as the Dallan Sanders Plaza.</p>"
@@ -249,7 +249,7 @@
     "category": "student-services",
     "small": "",
     "img": {
-      "src": "../img/DPS.png",
+      "src": "img/DPS.png",
       "alt": "Department of Public Safety"
     },
     "description": "<p>The ENMU Department of Public Safety (DPS) provides police services, investigative services, emergency management, emergency response, loss prevention, safety compliance, and professional development for ENMU. The department strives to foster positive and productive working relationships with all surrounding local, county, state, and federal agencies.</p>"
@@ -264,7 +264,7 @@
     "category": "housing",
     "small": "",
     "img": {
-      "src": "../img/Eddy.png",
+      "src": "img/Eddy.png",
       "alt": "Eddy Hall"
     },
     "description": "<p>Eddy Hall has suites with semi-private bathrooms (you share a bathroom with one other room) and double rooms with a community bath.\nLocation: Eddy Hall is located northeast of Guadalupe Halls and diagonally across from the Campus Union Building (CUB).</p>"
@@ -279,7 +279,7 @@
     "category": "academic",
     "small": "",
     "img": {
-      "src": "../img/EDU.png",
+      "src": "img/EDU.png",
       "alt": "Education"
     },
     "description": "<p>The Education Building was previously the site of the original Greyhound Stadium where students and fans alike watched the very first on-campus football games. This building was constructed in 1969 and remodeled in 1994. Here you can find the College of Education and Technology programs, Teacher Education Office, and several smart classrooms. </p>"
@@ -294,7 +294,7 @@
     "category": "student-services",
     "small": "",
     "img": {
-      "src": "../img/img.jpg",
+      "src": "img/img.jpg",
       "alt": "ENMU Foundation"
     },
     "description": "<p>Every year, the ENMU Foundation awards over $650,000 in scholarships to ENMU students. The ENMU Foundation Board of Directors works closely with the University to help raise money to support the ENMU mission.</p>"
@@ -309,7 +309,7 @@
     "category": "academic",
     "small": "",
     "img": {
-      "src": "../img/FS.png",
+      "src": "img/FS.png",
       "alt": "Food Sciences"
     },
     "description": "<p>The Food Sciences building contains classrooms and laboratories that students utilize to practice and study cooking techniques. In coordination with the education program, early childhood education majors have the opportunity to learn about nutrition necessities for early childhood development as well as prepare lunches for the on-campus Child Development Center. </p>"
@@ -324,7 +324,7 @@
     "category": "athletics",
     "small": "",
     "img": {
-      "src": "../img/FF.png",
+      "src": "img/FF.png",
       "alt": "Football Fieldhouse"
     },
     "description": "<p>The Football Field House recently underwent $50,000 in renovations. These renovations include a new receptions desk, seating area, uniform mannequins, a new player&#x27;s lounge, new carpet throughout the facility, 100 wooden player/coach lockers, coach&#x27;s offices, and meeting rooms. Located next to 2 full-length natural grass practice fields and the new Al Whitehead Field at Greyhound Stadium.</p>"
@@ -339,7 +339,7 @@
     "category": "landmarks",
     "small": "",
     "img": {
-      "src": "../img/ATG.png",
+      "src": "img/ATG.png",
       "alt": "Gennaro Natural History Museum"
     },
     "description": "<p>The Gennaro Natural History Museum serves to promote understanding of the diversity of life, emphasizing the natural heritage of ENMU and the greater southwest. The museum is named after Dr. Antonio &quot;Tony&quot; Gennaro, who came to ENMU in 1996 as an associate professor of biological sciences and quickly established a reputation as an excellent teacher and nationally recognized researcher. Located at the main entrance on the first floor of Roosevelt Hall on South Avenue K, adjacent to the Miles Mineral Museum.</p>"
@@ -354,7 +354,7 @@
     "category": "academic",
     "small": "",
     "img": {
-      "src": "../img/GSSC.png",
+      "src": "img/GSSC.png",
       "alt": "Golden Student Success Center"
     },
     "description": "<p>The Golden Student Success Center (GSSC) is a state-of-the-art building featuring great study spaces, computer work stations, fast Wi-Fi, Einstein Bros. Bagels and more. The building houses the Golden Library, the Runnels Gallery and the offices of Tutoring and Supplemental Instruction and Distance Learning. The heart of the GSSC, the Golden Library, serves students, alumni and the Portales community with three main collections: General Collection, Special Collections and Government Information. Special Collections includes the Jack Williamson Science Fiction Library, Southwest Collection (including New Mexico collections), University archives, and local history. The General Collection includes newspapers, serials, juvenile books, and K-12 curriculum materials.</p>"
@@ -369,7 +369,7 @@
     "category": "athletics",
     "small": "",
     "img": {
-      "src": "../img/GP.png",
+      "src": "img/GP.png",
       "alt": "Greek Park"
     },
     "description": "<p>Greek Park is located across the street from the post office. It features beautiful landscaping, benches and adjacent parking. Great for sitting outside and reading in the sun, enjoying a book in the shade, letting your dogs run around, and enjoying the sunshine with friends.</p>"
@@ -384,7 +384,7 @@
     "category": "athletics",
     "small": "",
     "img": {
-      "src": "../img/GA.png",
+      "src": "img/GA.png",
       "alt": "Greyhound Arena"
     },
     "description": "<p>Greyhound Arena provides a first-class setting for educational, cultural, social and athletic events. The arena is home to the ENMU volleyball, men’s basketball, and women’s basketball teams. More than 4,800 Greyhound Nation fans can watch games in the horseshoe-shaped arena. Seating is available on two levels, including chair-back seating throughout the lower level. Known around the conference as one of the hardest places to play, Greyhound Arena has a great tradition of winning, it’s seen it’s sports teams win multiple conference and tournament championships over the years.\nCompleted in 1967, Greyhound Arena has stood the test of time, with major renovations in 1988, 2006, and again in 2012. Inside the arena are two auxiliary gyms, two indoor racquetball courts, a climbing wall room, a fitness center, a large athletic training center, and locker rooms for basketball, volleyball, and soccer.\nGreyhound Arena also serves as the home to ENMU’s athletic staffs, offering a support complex with offices, conference rooms and classrooms – many of which are designed to serve multiple uses.</p>"
@@ -399,7 +399,7 @@
     "category": "athletics",
     "small": "",
     "img": {
-      "src": "../img/BF.png",
+      "src": "img/BF.png",
       "alt": "Greyhound Baseball Field"
     },
     "description": "<p>Greyhound Field was built by legendary former head coach Phil Clabaugh and the Greyhound baseball team when the program was revived for the 1992 season. The team constructed a quality facility with some of the largest outfield dimensions in baseball and renovated the facility following the 2008 season with new dimensions — 365 feet to left field, 410 feet to center field with a 14 foot fence and 343 feet to right field. Greyhound Field has a grass infield where the ball moves smoothly and defenders can make plays. The team recently replaced the chain link backstop with mesh netting with brick at field level.\nThe baseball field house was completed in the summer of 2006, with locker rooms, meeting rooms and offices for the ENMU baseball team. There also is an indoor practice facility, located behind the first base dugout. The facility allows the Greyhounds to practice indoors during inclement weather.\nGreyhound Field also features seat back chairs behind home plate with bleacher seating on either side. A press box was constructed behind the backstop. Inside is fully wired internet for in-game live statistics and video streaming. The press box also houses game operations, which includes statisticians, public address, play-by-play announcer and other needed personnel.</p>"
@@ -414,7 +414,7 @@
     "category": "athletics",
     "small": "",
     "img": {
-      "src": "../img/SF.png",
+      "src": "img/SF.png",
       "alt": "Greyhound Softball Field"
     },
     "description": "<p>Greyhound Softball Field opened in 1999 and is 200 feet deep in the corners and 220 feet to center field. The outside fence is lined with a wind screen, with the outfield wall being fully padded. The infield is synthetic turf and the outfield is a fescue/bermuda turf. The dugouts are spacious, with built-in storage areas for bats and helmets.\nIn 2022, a synthetic turf infield was installed, replacing the dirt/clay infield. In 2023, the outfield was upgraded from grass to turf, completing a fully turf playing surface. The outfield wall and backstop were also upgraded in 2023, with padding now covering the outfield fence and backstop.\nFollowing the 2005 season, a fieldhouse was built on the softball complex, providing offices for the coaches, conference rooms and locker rooms right next to the field. Previously, the coaches offices and locker rooms were located in Greyhound Arena.\nOther amenities include a batting cage, bullpens and storage rooms. A scoreboard is located in left center field, providing information to fans and teams during home games. The Greyhounds also have an indoor hitting facility with multiple nets, screens and pitching lanes.\nA press box was constructed behind the backstop. Inside is fully wired internet for in-game live statistics and video streaming. The press box also houses game operations, which includes statisticians, public address, play-by-play announcer and other needed personnel.</p>"
@@ -429,7 +429,7 @@
     "category": "athletics",
     "small": "",
     "img": {
-      "src": "../img/GS.png",
+      "src": "img/GS.png",
       "alt": "Greyhound Stadium"
     },
     "description": "<p>Al Whitehead Field at Greyhound Stadium seats 4,000 fans, and had its grand opening on September 10, 2016. The opening saw the Hounds earn a 37-16 win in Lone Star Conference action against the Western New Mexico Mustangs. The stadium replaced the Blackwater Draw site which was used from 1968-2015.\nThe stadium features lighting to enable ENMU to play several night games each year and numerous air conditioned press boxes.\nThe multi-purpose facility will also provide the ability to hold soccer games at night and home events for the track &amp; field teams. It also will be utilized by the Greyhound Sound marching band, health &amp; physical education department, and Portales High School.\nThe press box at Greyhound Stadium has media and statistics rooms, plus booths for coaches from both teams, home and visiting radio stations, television stations, scoreboard operator and public address announcer. All stadium seating is elevated above field level.</p>"
@@ -444,7 +444,7 @@
     "category": "housing",
     "small": "",
     "img": {
-      "src": "../img/GH.png",
+      "src": "img/GH.png",
       "alt": "Guadalupe Hall"
     },
     "description": "<p>Guadalupe Hall is Eastern&#x27;s newest addition to the residential options at ENMU, opened January 2013. Guadalupe Hall has suites with semi-private bathrooms. each suite is composed of two double rooms that share a bathroom.\nLocated: Across from the CUB parking area.</p>"
@@ -459,7 +459,7 @@
     "category": "student-services",
     "small": "",
     "img": {
-      "src": "../img/HS.png",
+      "src": "img/HS.png",
       "alt": "Health Services"
     },
     "description": "<p>La Casa ENMU Student Health Services serves to help students maintain a positive, healthy lifestyle, which contributes to their academic success. ENMU Health Services offers preventive and acute health services, similar to a family healthcare clinic, at little or no cost to students with a current ENMU student ID. In addition to flu shots, blood tests, prescriptions, and other medical services, they make health awareness presentations to student groups. They also provide family planning services, pap smears, STI (sexually transmitted infection) screening and treatment, and contraception products. As with any medical clinic, they assure complete confidentiality.\nLocation: Located in Curry Hall (CH) on the north side of campus, directly across from the Administration Building (AD) on S Ave K.</p>"
@@ -474,7 +474,7 @@
     "category": "academic",
     "small": "",
     "img": {
-      "src": "../img/JWLA.png",
+      "src": "img/JWLA.png",
       "alt": "Jack Williamson Liberal Arts"
     },
     "description": "<p>Named for the local science fiction writer, the Jack Williamson Liberal Arts building was renovated in 2014 and is one of the most modern buildings on campus. The criminal justice, history, humanities, philosophy, mathematics, and language and literature programs are located here. This building also houses a computer lab, language lab, and the Writing Center. We encourage students to utilize the Writing Center for assistance with each stage of writing a paper.</p>"
@@ -489,7 +489,7 @@
     "category": "other",
     "small": "",
     "img": {
-      "src": "../img/KENW.png",
+      "src": "img/KENW.png",
       "alt": "KENW Broadcast Center"
     },
     "description": "<p>KENW-TV is a Public Broadcast Station (PBS) that broadcasts from the campus of ENMU. The Department of Communication works closely with KENW which gives ENMU communication majors the opportunity to gain real, hands-on experience in their chosen field.</p>"
@@ -504,7 +504,7 @@
     "category": "academic",
     "small": "",
     "img": {
-      "src": "../img/LH.png",
+      "src": "img/LH.png",
       "alt": "Lea Hall"
     },
     "description": "<p>Classrooms and offices for the communicative disorders (CDIS), social work and nursing programs are located here. You can also find the Speech and Hearing Rehabilitation Center (SHROC) in this building. SHROC offers CDIS majors the opportunity to gain hands-on experience in an educational environment.</p>"
@@ -519,7 +519,7 @@
     "category": "athletics",
     "small": "",
     "img": {
-      "src": "../img/Rodeo.png",
+      "src": "img/Rodeo.png",
       "alt": "Lewis Cooper Rodeo Arena"
     },
     "description": "<p>Lewis-Cooper Arena has long been the home facility for the Eastern New Mexico University rodeo team. Every fall, the program hosts the ENMU College &quot;Daze&quot; Rodeo, which stands as the largest collegiate rodeo in the nation. In 2015-16, the rodeo was chosen as the National Intercollegiate Rodeo Association Southwest Region Rodeo of the Year. Since the first National Championship in 1967, the ENMU Rodeo Team has continued to breed success inside the arena, with 7 National Champions or Runner’s Up since 2010.</p>"
@@ -534,7 +534,7 @@
     "category": "landmarks",
     "small": "",
     "img": {
-      "src": "../img/MM.png",
+      "src": "img/MM.png",
       "alt": "Miles Mineral Museum"
     },
     "description": "<p>When Fred Miles and his wife Gladys moved to Roswell, New Mexico in 1928, they began exploring along the Pecos River. There they found beautiful quartz crystals called Pecos Valley Diamonds. This was the beginning of a love affair with minerals and rocks that lasted 40 years and marked the beginning of the Miles Collection. The collection was displayed in a back room of Fred&#x27;s Texaco service station on Second Street in Roswell. If you mentioned any interest in minerals or rocks, Fred would proudly show off his collection, which also included Native American artifacts.\nIn August 1966, Fred Miles and Eastern New Mexico University entered into an agreement to purchase the collection, which included approximately 2,500 geological, archaeological and anthropological specimens. On Feb. 23, 1969, the Miles Museum was opened on the ENMU campus. The museum was originally housed in a space adjacent to Lea Hall.\nIn 1984 the geological specimens were moved to museum space on the second floor of Roosevelt Hall and the Miles Mineral Museum was opened. The collection remained there until the summer of 1995, when renovation of Roosevelt Hall began. During summer 1997, the collection was placed on display in the present space.\nMost of the specimens on display today are from the original Miles Collection. Additional specimens have been obtained through donations and purchases.\nLocation: The Miles Mineral Museum is located in Roosevelt Hall, Room 103, adjacent to the Dr. Antonio &quot;Tony&quot; Gennaro Natural History Museum. Admission is free.</p>"
@@ -549,7 +549,7 @@
     "category": "academic",
     "small": "",
     "img": {
-      "src": "../img/MB.png",
+      "src": "img/MB.png",
       "alt": "Music Building"
     },
     "description": "<p>The Music Building houses the administrative offices for both the College of Fine Arts and the Department of Music. With the $12 million renovation completed in 2010, the facilities were expanded to include a band hall, choral rehearsal room, 250-seat performance hall, teaching studios, faculty offices, outdoor concert stage and green, four classrooms (three are smart classrooms), Midi Lab, 18 practice rooms, lounge, and a large piano inventory.</p>"
@@ -564,7 +564,7 @@
     "category": "athletics",
     "small": "",
     "img": {
-      "src": "../img/Nat.png",
+      "src": "img/Nat.png",
       "alt": "Natatorium"
     },
     "description": "<p>The Natatorium hosts for credit classes such as aqua aerobics and swimming. The Natatorium is open for lap swim and recreation swim times, both of which are free for students. Public use of the Natatorium is allowed with a purchase of a pass. Distance education holds classes for the community such as swim lessons and scuba.</p>"
@@ -579,7 +579,7 @@
     "category": "landmarks",
     "small": "",
     "img": {
-      "src": "../img/Pergola.png",
+      "src": "img/Pergola.png",
       "alt": "Pergola"
     },
     "description": "<p>Located in the center of ENMU campus and just outside of JWLA, the pergola has a fountain that runs in the summer, with two greyhounds, Vik and Tori, on either side.</p>"
@@ -594,7 +594,7 @@
     "category": "other",
     "small": "",
     "img": {
-      "src": "../img/Physical.png",
+      "src": "img/Physical.png",
       "alt": "Physical Plant"
     },
     "description": "<p>The Physical Plant is responsible for the operation and maintenance of the University facilities and grounds. The Physical Plant provides maintenance for building systems, heating and air conditioning systems, building renovations, motorpool, grounds landscaping, pest control, and custodial services.</p>"
@@ -609,7 +609,7 @@
     "category": "student-services",
     "small": "",
     "img": {
-      "src": "../img/PO.png",
+      "src": "img/PO.png",
       "alt": "Post Office"
     },
     "description": "<p>The ENMU Post Office is a full-service U.S. Postal Service location that allows ENMU students to send and receive mail. Once you get a mailbox at the ENMU Post Office, the address is yours until you graduate. As well, the mailbox is free for students, you receive mail from the University that keeps you updated and informed, you help the University save money on postage, and you have the ability to forward your mail during winter and summer breaks.</p>"
@@ -624,7 +624,7 @@
     "category": "other",
     "small": "",
     "img": {
-      "src": "../img/PUR.png",
+      "src": "img/PUR.png",
       "alt": "Purchasing"
     },
     "description": "<p>The ENMU Purchasing department facilitates the purchase of goods and services to meet the objectives of the University. ENMU Purchasing ensures compliance with University policies, state statutes, and regulations as is mandated by law.</p>"
@@ -639,7 +639,7 @@
     "category": "administration",
     "small": "",
     "img": {
-      "src": "../img/QH.png",
+      "src": "img/QH.png",
       "alt": "Quay Hall"
     },
     "description": "<p>Originally widely called &quot;North Hall&quot;, ENMU’s Quay Hall was constructed as a women&#x27;s dormitory as a New Deal project in 1935-6. The Public Works Administration (PWA) provided a loan and a grant to cover most of the cost of the project, amounting to $34,000 and $15,000, respectively. The total cost of the project amounted to $53,652.\nLocated on the west side of S Avenue K, between W 2nd St. and W 3rd St. </p>"
@@ -654,7 +654,7 @@
     "category": "landmarks",
     "small": "",
     "img": {
-      "src": "../img/RCM.png",
+      "src": "img/RCM.png",
       "alt": "Roosevelt County Museum"
     },
     "description": "<p>The Roosevelt County Museum was constructed in 1940 and contains relics of Roosevelt County residents.</p>"
@@ -669,7 +669,7 @@
     "category": "academic",
     "small": "",
     "img": {
-      "src": "../img/RSC.png",
+      "src": "img/RSC.png",
       "alt": "Roosevelt Science Center"
     },
     "description": "<p>The Roosevelt Science Center (RSC) building was originally constructed in 1953 as a men&#x27;s residence hall. In 1995, an addition was added and the facility was re-purposed as the Roosevelt Science Center with a total square footage of approximately 42,000 square feet.\nThe RSC currently houses all of the science department faculty offices, classrooms, labs and interpretive learning exhibit functions. Various courses and labs taught are in biology, chemistry, ecology, fisheries and wildlife, microbiology, physiology, entomology and pre-med.</p>"
@@ -684,7 +684,7 @@
     "category": "landmarks",
     "small": "",
     "img": {
-      "src": "../img/RG.png",
+      "src": "img/RG.png",
       "alt": "Runnels Gallery"
     },
     "description": "<p>The Runnels Gallery is Eastern New Mexico University&#x27;s premier campus art gallery. Located within the Golden Student Success Center (GSSC), it features a variety of creative visual artwork from students, faculty and staff, alumni and notable guest artists.\nTheir mission is to provide the ENMU campus and surrounding communities&#x27; access to diverse and creative visual works through a variety of exhibitions, guest artist lectures and master workshops. The focus of the gallery is to connect all visitors with local, regional and national artists and designers. Furthermore, the gallery believes art is not limited to a static experience; rather participation in the creative process is essential to unlocking one&#x27;s own creative abilities.</p>"
@@ -699,7 +699,7 @@
     "category": "housing",
     "small": "",
     "img": {
-      "src": "../img/SJV.png",
+      "src": "img/SJV.png",
       "alt": "San Juan"
     },
     "description": "<p>San Juan Village is a student housing community located behind Eddy Hall. SJV offers a 24-hour fitness center and clubhouse, internet, fully furnished bedrooms and bathrooms, an outdoor pool, and all necessary appliances. </p>"
@@ -714,7 +714,7 @@
     "category": "academic",
     "small": "",
     "img": {
-      "src": "../img/SCI.png",
+      "src": "img/SCI.png",
       "alt": "Science"
     },
     "description": "<p>This building houses one of the largest classrooms on campus with 125 seats as well as two 50-student capacity classrooms. There are also two smart classrooms, additional regular classrooms, three lecture halls, autoclave equipment, warm room, cold room, and multiple laboratories. Unlike other universities, here students have the opportunity to do and publish research. We are one of the few non-medical universities with an on-campus cadaver room that allows biology students to get hands-on experience.</p>"
@@ -729,7 +729,7 @@
     "category": "athletics",
     "small": "",
     "img": {
-      "src": "../img/Soccer.png",
+      "src": "img/Soccer.png",
       "alt": "Soccer Field"
     },
     "description": "<p>The ENMU Soccer Field is 75 yards wide and 115 yards long. The facility features a well-maintained grass surface, with plenty of space for weather-protected home and visiting benches, a press box and bleachers. The field is surrounded by a chain-link fence with wind screen and is conveniently located near Greyhound Arena, which houses the ENMU Athletic Department.</p>"
@@ -744,7 +744,7 @@
     "category": "student-services",
     "small": "",
     "img": {
-      "src": "../img/SAS.png",
+      "src": "img/SAS.png",
       "alt": "Student Academic Services"
     },
     "description": "<p>In the 1950s, Student Academic Services was created to be a multipurpose facility for prospective and current students. It was built around a patio that is now a lounging area under a glass ceiling. True to its name, this building houses offices that are primarily focused on services for ENMU students. Find help for tuition, scholarships, counseling and tutoring services, registration, and more.</p>"
@@ -759,7 +759,7 @@
     "category": "athletics",
     "small": "",
     "img": {
-      "src": "../img/Tennis.png",
+      "src": "img/Tennis.png",
       "alt": "Tennis Courts"
     },
     "description": "<p></p>"
@@ -774,7 +774,7 @@
     "category": "athletics",
     "small": "",
     "img": {
-      "src": "../img/img.jpg",
+      "src": "img/img.jpg",
       "alt": "Track and Field"
     },
     "description": "<p>Located next to the soccer field.</p>"
@@ -789,7 +789,7 @@
     "category": "student-services",
     "small": "",
     "img": {
-      "src": "../img/UCC.png",
+      "src": "img/UCC.png",
       "alt": "University Computer Center"
     },
     "description": "<p>This building was originally located at the Ft. Sumner military base. Relocated to this campus in one piece, it became ENMU&#x27;s first theater. After the new theater was built, this building was renovated into what is now the state-of-the-art University Computer Center. There are two computer labs located here that can be utilized as classrooms. Both labs are equipped with scanners and printers. ENMU students may access labs from 8 a.m. to midnight.</p>"
@@ -804,7 +804,7 @@
     "category": "academic",
     "small": "",
     "img": {
-      "src": "../img/UTC.png",
+      "src": "img/UTC.png",
       "alt": "University Theater Center"
     },
     "description": "<p>The UTC is the primary venue for dance, theatre and large musical performances. Around eight productions take place here every year. In this building, you can find a 419-seat proscenium theater, a 125-seat experimental black-box theater, a dance studio, dressing rooms, scene shop, costume shop, classrooms and faculty offices.</p>"
@@ -819,7 +819,7 @@
     "category": "housing",
     "small": "",
     "img": {
-      "src": "../img/WC.png",
+      "src": "img/WC.png",
       "alt": "West Campus Apartments"
     },
     "description": "<p>The West Campus Apartment complex is University owned and operated and features 30 one-bedroom units, 66 two-bedroom units, a playground area on site, one- and two-story buildings, and is located on 1/4 mile west of central campus.</p>"
